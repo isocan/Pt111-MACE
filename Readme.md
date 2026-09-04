@@ -131,18 +131,6 @@ Local execution works the same way with a CUDA-capable GPU; set `DEVICE="cpu"` f
 * J. Lan *et al.*, AdsorbML: a leap in efficiency for adsorption energy calculations using generalizable machine learning potentials, *npj Comput. Mater.* **9**, 172 (2023).
 * I. Batatia *et al.*, MACE: Higher order equivariant message passing neural networks, *NeurIPS* 2022.
 
-## Citation
-
-If you use this workflow, please cite this repository:
-
-```
-I. C. Oguz, Coverage-aware H* adsorption on Pt(111) and the HER volcano with universal
-ML interatomic potentials, GitHub repository, https://github.com/isocan/Pt111-MACE (2026).
-```
-
-## Author
-
-Ismail Can Oguz — Dutch Institute for Fundamental Energy Research (DIFFER), Eindhoven.
 
 ## License
 
